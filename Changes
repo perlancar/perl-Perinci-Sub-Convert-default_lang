@@ -1,4 +1,4 @@
-0.02    2015-09-03 (PERLANCAR)
+0.02    2015-09-03  Released-By: PERLANCAR
 
 	- No functional changes.
 
@@ -7,7 +7,7 @@
 	  requirement.
 
 
-0.01     2014-04-30 (SHARYANTO)
+0.01     2014-04-30  Released-By: SHARYANTO
 
          - First release. Extracted from Perinci-Sub-Wrapper to make
            Perinci-Sub-Wrapper stay lean (and this functionality is seldom
